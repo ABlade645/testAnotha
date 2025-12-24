@@ -3,7 +3,7 @@
 
 void main(void)
 {
-	puts("\n\tFuck you");
+	puts("\n\tNah man sorry mb");
 
 	_getch();
 }
